@@ -1,0 +1,7 @@
+# don't upload env folder
+env
+
+*.env
+
+#All pycache
+__pycache__/
